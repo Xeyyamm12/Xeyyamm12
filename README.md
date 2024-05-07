@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Xeyyam Mustafayev</h1>
 <h3 align="center">Web Developer</h3>
-
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhkY2M0M2Fydm1zZGI5b3Nlb3poN3ozemFiYjdtdmswdDlqMmxqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Coder" width="550" height="320" />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/xeyyam mustafayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xeyyam mustafayev" height="30" width="40" /></a>
